@@ -1,0 +1,207 @@
+-*- Mode: org -*-
+
+Dear IDP | IELTS,
+
+I was supposed to take the standard IELTS test on Aug 13th, 2016 at 07:30 AM. I
+registered online on Aug 3rd, 2016 via https://www.ielts.org (which eventually
+redirects to https://my.ieltsessentials.com). However, due to the reasons
+described in more details below, on the scheduled day I most probably went to
+the wrong test venue. I didn't realize this until about 07:45 AM. At the end, I
+did not take any test.
+
+I will admit this is a mistake on my part and am not demanding a refund. But
+please read on.
+
+* REGISTRATION PROCESS
+
+I started the registration process by going to www.ielts.org (see screenshot
+link 1). Note that all website screenshots are taken on Aug 13th, 2016 between
+around 8:00-09:00 AM when I am writing this email, but to the best of my
+recollection they still show the same information as when I made the
+registration on Aug 3rd.
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts1.png (IELTS homepage)
+
+I then hovered to the "Book a test" link, then clicked the "Find a location"
+link. The page then showed the module selection (screenshot link 2):
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts2.png (module selection)
+
+I selected "IELTS". The page now scrolled to show the country selection field (screenshot link 3)
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts3.png (country selection)
+
+I picked "Indonesia" from the list and the page now showed city selection. I
+picked "Jakarta Selatan" (south Jakarta) from the list, which is where I wanted
+to take the test. The page now showed a single choice link: "IDP Education - ILP
+Pancoran" (screenshot link 4):
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts4.png (IDP Education - ILP Pancoran)
+
+I was not previously familiar with the IDP nor ILP organization, and at this
+time I thought maybe they are the same or related in some way. When I clicked
+the "IDP Education - ILP Pancoran" link, what shown was like in screenshot link
+5:
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts5.png (Address of IDP Education - ILP Pancoran)
+
+Okay, I thought. IDP and ILP are definitely related or share an office or
+something, because the physical address is for ILP Pancoran, and the email
+address contains "ilp" but the website URL contains "idp".
+
+I was then brought to the page to choose the test center and test venue again
+(screenshot link 6, red marking is mine). I didn't take notice of the fact that
+"test center" and "test venue" are separate/different, until today. I selected
+again the "IDP Education - South Jakarta" and the date that I wanted (note that
+the screenshot link now showed Aug 20th because I made this screenshot today;
+when I made the original registration it was Aug 13th).
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts6.png (test center/venue selection)
+
+At this time I thought that the test would still be conducted at "ILP Pancoran"
+at the "Jl Raya Pasar Minggu No. 39A" address because the test center/venue
+selection page doesn't show any physical address. The next page (screenshot
+link 7) doesn't either.
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts7.png (personal information form)
+
+* EMAILS FROM IELTS
+
+After I finished the registration and made the online payment, there are a total
+of two emails that I received (screenshot link 8 shows my Gmail inbox, red
+marking mine):
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts8.png (my Gmail inbox)
+
+One email contains login information to the IELTS account, while the other is
+about payment confirmation. The latter email does contain this statement "Please
+check your test venue again in your registration account to ensure where you
+take the test and find below some important requirements about the test" but the
+email does not include the physical address. The email did mention an address
+but for another IDP: "IDP - Pondok Indah".
+
+A full copy of these emails (sensitive information redacted) can be downloaded at:
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/email-from-ielts-1.txt
+    https://github.com/stevenharyanto/ielts-problem/blob/master/email-from-ielts-1.plaintext.txt
+    https://github.com/stevenharyanto/ielts-problem/blob/master/email-from-ielts-2.txt
+    https://github.com/stevenharyanto/ielts-problem/blob/master/email-from-ielts-2.plaintext.txt
+
+My mistake was not checking the test venue again, thinking that it must be at
+"ILP Pancoran, Jl Raya Pasar Minggu No. 39A" as shown previously on the website.
+
+* ON THE DAY OF THE TEST
+
+I went to ILP Pancoran at Jl Pasar Minggu No. 39A and arrived at around 7:25 AM.
+There were nobody inside the building except a cleaning service staff and
+another staff. I asked them both about where to register for the test but they
+were not very informed about any IELTS test being scheduled to be conducted at
+that day and suggested that I waited until 09:00 AM. After around 07:35 AM and
+still without any sign of anybody else coming, I started to suspect there might
+be something wrong. So I checked my Gmail inbox and re-read the emails. Then I
+logged in to the IELTS account page to check the venue.
+
+The account page still does not clearly display any physical address of the test
+venue (see screenshot link 10 and 11). There is no street address except a
+couple of phone numbers. I called all the mentioned phone numbers (021-7262335
+and 021-7264055) and at that time nobody answered the phone.
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts9.png (IELTS account page)
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts10.png (IELTS account page)
+
+Finally I tried doing a Google search for "IELTS Test Centre ID017" and got a
+PDF result from Google.
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/ielts11.png (Google result for "IELTS Test Centre ID017")
+
+The copy of the PDF is at:
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/copy.pdf
+
+To be honest, when I read the PDF document, I *still* am not sure where the
+venue is supposed to be. Or if "IDP - South Jakarta" and "IDP Pondok Indah" are
+the same thing and the designated "ID017". This fact is not clearly stated in
+the document. The document says: "Thank you for registering your IELTS Test at
+ID017 - IDP South Jakarta". So I am assuming the particular "IDP" that I should
+be visiting is "IDP South Jakarta" and if you recall from screenshot link 5 and
+6, "IDP Education - South Jakarta" seems to be associated with "IDP Education -
+ILP Pancoran" which is what I selected during registration.
+
+The PDF document then proceeds to talk about "IDP Pondok Indah" without
+explicitly stating that it is the same as "IDP South Jakarta".
+
+At this time I have to assume that the test venue is "IDP Pondok Indah" which is
+at "Raffles International Christian School, Jl Gedung Hijau Raya I no 1, Pondok
+Indah, Jakarta Selatan", because there is only this address and one other. The
+other address is for the speaking test at "IDP IELTS South Jakarta" which is at
+"Plaza 5 Pondok Indah Blok D19, Jl Margaguna Raya, Jakarta Selatan" and the
+speaking test is to be conducted at 1 PM.
+
+I had a thought of immediately going outside of the ILP Pancoran building and
+hailed a taxi to take me to Raffles International Christian School, but this
+statement that I read from the same PDF document prevented me to do so: "3. All
+Candidates must arrive at the test venue at 7.30am for registration (except for
+IELTS Life Skills test). You will not be permitted to sit for the test if you
+arrive late, and your test fee will not be refunded." By this time, it is
+already past 7:30 AM and the journey from Pasar Minggu to Pondok Indah would
+probably take at least 30-45 minutes. So I gave up and went home. I did try to
+call the phone numbers again, but failed to reach a human.
+
+* CONCLUSION
+
+I realized that my main mistake was not calling the phone number to ask for the
+exact correct address before the day of the test. Before I am supposed to take
+this IELTS test on Aug 13th, I also recently took GRE on Jul 28th and TOEFL iBT
+on July 30th. The registrations for both of these tests are also online via the
+www.ets.org website and I did not experience any confusion about the test venue.
+At all times during the registration process and in the email sent after the
+registration, the physical address of the test venue was clearly shown and was
+exactly the address which I chose. I did not have to call any phone number
+before the day of the tests and just showed up at the designated time and the
+tests were conducted successfully.
+
+I don't know how many other people beside me faced this confusion about the test
+venue and how many also failed to show up at the right venue. But from what I
+can see, there are some serious usability issues in the online registration
+process. Mainly:
+
+1) the confusion between these places:
+
+    "IDP Education - ILP Pancoran"
+    "IDP South Jakarta" (which is supposed to be ID017)
+    "IDP Pondok Indah"
+    "IDP IELTS South Jakarta"
+
+   The confusion in small variations of the titles is exacerbated by not
+   qualifying the place with the exact address. It would really be helpful if
+   anywhere an IDP branch/location is mentioned, an address follows.
+
+2) The name and address of "ILP Pancoran" should never have been displayed at
+   all during the registration, because the registration is online and does not
+   involve any visit to this place. This is a major source of confusion and
+   misguidance. I initially selected and hoped that this will be the test venue
+   because this place is by far the closest to me. I can argue that I am fooled
+   by the registration process.
+
+3) The physical address of ID017 should be clearly displayed during the
+   registration process, ideally before the registrant confirms the venue.
+
+As I said in the beginning of this email, I realized my mistake and am not
+demanding a refund because the rule has been clearly stated. However, if there
+could be a reconsideration for this case, I would most appreciate it.
+
+If you need more information or want to contact me for further details, I can be
+contacted at:
+
+    Steven Haryanto
+    stevenharyanto@gmail.com
+    +6281906617777
+
+or at the postal address which I entered during the registration.
+
+A copy of this email is also put at:
+
+    https://github.com/stevenharyanto/ielts-problem/blob/master/email-by-steven.pdf
+
+Regards,
+Steven Haryanto

@@ -1,0 +1,128 @@
+Delivered-To: stevenharyanto@gmail.com
+Return-Path: <no-reply@idp.com>
+From: <no-reply@idp.com>
+To: <stevenharyanto@gmail.com>
+Date: Wed, 3 Aug 2016 15:16:54 +1000
+Subject: IELTS Essentials website access
+Message-ID: <9d3c309995bb4313b2e8535285fc3024@CBR-EXC03.idp.com>
+Return-Path: no-reply@idp.com
+X-MC-Unique: mPzogAJsOF-bCWoJgUCWsw-1
+Content-Type: multipart/alternative;
+	boundary="--boundary_47808_804fcf6a-6026-4505-8546-29827f32b08e"
+
+----boundary_47808_804fcf6a-6026-4505-8546-29827f32b08e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0A=0A=0A   =20=0A       =20=0A    =20=0A    Antwort - responsive Email Lay=
+out=0A   =20=0A=0A=0A   =20=0A   =20=0A   =20=0A       =20=0A           =20=
+=0A               =20=0A               =20=0A                   =20=0A     =
+                  =20=0A                           =20=0A=0A               =
+            =20=0A                               =20=0A                    =
+               =20=0A                                       =20=0A         =
+                              =20=0A                                       =
+    =20=0A                                               =20=0A            =
+                                       =20=0A                              =
+                     =20=0A                                               =
+=20=0A                                           =20=0A                    =
+                   =20=0A                                   =20=0A         =
+                      =20=0A                           =20=0A              =
+             =20=0A                            Dear Mr Steven Haryanto,
+                    =20
+                     Your new account has been created.
+                    =20
+                           To access the IELTS Essentials website, please s=
+ign in using the following account details.
+                    =20
+                    =20
+                           Usernamesteve410
+                    =20
+                     To reset your password, select "Sign in Now" below and=
+ use the "Forgot your Password" feature.
+                     Sign In Now=0A                           =20=0A       =
+                    =20=0A                           =20=0A                =
+            &copy; IDP | IELTS=0A                       =20=0A             =
+      =20=0A               =20=0A               =20=0A           =20=0A    =
+   =20=0A   =20=0A   =20=0A   =20=0A   =20=0A=0A=0A
+----boundary_47808_804fcf6a-6026-4505-8546-29827f32b08e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"=0A          =
+"http://www.w3.org/TR/html4/loose.dtd">=0A<html lang=3D"en">=0A<head>=0A   =
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0A    <meta name=3D"viewport" content=3D"initial-scale=3D1.0">    <!-- So =
+that mobile webkit will display zoomed in -->=0A    <meta name=3D"format-de=
+tection" content=3D"telephone=3Dno"> <!-- disable auto telephone linking in=
+ iOS -->=0A    <title>Antwort - responsive Email Layout</title>=0A    <styl=
+e type=3D"text/css">=0A        /* Resets: see reset.css for details */=0A  =
+      .ReadMsgBody {=0A            width: 100%;=0A            background-co=
+lor: #ebebeb;=0A        }=0A=0A        .ExternalClass {=0A            width=
+: 100%;=0A            background-color: #ebebeb;=0A        }=0A=0A         =
+   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fo=
+nt, .ExternalClass td, .ExternalClass div {=0A                line-height: =
+100%;=0A            }=0A=0A        body {=0A            -webkit-text-size-a=
+djust: none;=0A            -ms-text-size-adjust: none;=0A        }=0A=0A   =
+     body {=0A            margin: 0;=0A            padding: 0;=0A        }=
+=0A=0A        table {=0A            border-spacing: 0;=0A        }=0A=0A   =
+         table td {=0A                border-collapse: collapse;=0A        =
+        text-align: left;=0A            }=0A=0A        .yshortcuts a {=0A  =
+          border-bottom: none !important;=0A        }=0A=0A=0A        /* Co=
+nstrain email width for small screens */=0A        @media screen and (max-w=
+idth: 600px) {=0A            table[class=3D"container"] {=0A               =
+ width: 95% !important;=0A            }=0A        }=0A=0A        /* Give co=
+ntent more room on mobile */=0A        @media screen and (max-width: 480px)=
+ {=0A            td[class=3D"container-padding"] {=0A                paddin=
+g-left: 12px !important;=0A                padding-right: 12px !important;=
+=0A            }=0A        }=0A    </style>=0A</head>=0A<body style=3D"marg=
+in:0; padding:10px 0;" bgcolor=3D"#ebebeb" leftmargin=3D"0" topmargin=3D"0"=
+ marginwidth=3D"0" marginheight=3D"0">=0A    <br>=0A    <!-- 100% wrapper (=
+grey background) -->=0A    <table border=3D"0" width=3D"100%" height=3D"100=
+%" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ebebeb">=0A        <tr>=
+=0A            <td valign=3D"top" bgcolor=3D"#ebebeb" style=3D"background-c=
+olor: #ebebeb;">=0A                <!-- 600px container (white background) =
+-->=0A                <table border=3D"0" width=3D"600" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"container" bgcolor=3D"#ffffff">=0A               =
+     <tr>=0A                        <td class=3D"container-padding" bgcolor=
+=3D"#ffffff" style=3D"background-color: #ffffff; padding-left: 30px; paddin=
+g-right: 30px; font-size: 14px; line-height: 20px; font-family: Helvetica, =
+sans-serif; color: #333;">=0A                            <br>=0A=0A        =
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:100%" class=3D"columns-container">=0A                      =
+          <tr>=0A                                    <td class=3D"force-col=
+" style=3D"padding-right: 20px;" valign=3D"top">=0A                        =
+                <!-- ### COLUMN 1 ### -->=0A                               =
+         <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"l=
+eft" class=3D"col-3">=0A                                            <tr>=0A=
+                                                <td align=3D"left" valign=
+=3D"top" style=3D"font-size:13px; line-height: 20px; font-family: Arial, sa=
+ns-serif;">=0A                                                    <img src=
+=3D"https://my.ieltsessentials.com/Content/images/logos/IDP IELTS Logo.png"=
+ alt=3D"Image Caption" border=3D"0" hspace=3D"0" vspace=3D"0" style=3D"vert=
+ical-align:top; padding-bottom:12px;" class=3D"col-3-img">=0A              =
+                                      <br>=0A                              =
+                  </td>=0A                                            </tr>=
+=0A                                        </table>=0A                     =
+               </td>=0A                                </tr>=0A            =
+                </table><!--/ end .columns-container-->=0A                 =
+           <!-- ### BEGIN CONTENT ### -->=0A                            <p>=
+Dear Mr Steven Haryanto,<p>
+                     <br />
+                     <p>Your new account has been created.</p>
+                     <p>
+                           To access the IELTS Essentials website, please s=
+ign in using the following account details.
+                     </p>
+                     <dl>
+                           <dt>Username</dt><dd>steve410</dd>
+                     </dl>
+                     <p>To reset your password, select "Sign in Now" below =
+and use the "Forgot your Password" feature.</p>
+                     <p><a href=3D"https://my.ieltsessentials.com">Sign In =
+Now</a></p>=0A                            <!-- ### END CONTENT ### -->=0A  =
+                          <br><br>=0A                            <hr />=0A =
+                           &copy; IDP | IELTS=0A                        </t=
+d>=0A                    </tr>=0A                </table>=0A               =
+ <!--/600px container -->=0A            </td>=0A        </tr>=0A    </table=
+>=0A    <!--/100% wrapper-->=0A    <br>=0A    <br>=0A</body>=0A</html>=0A
+----boundary_47808_804fcf6a-6026-4505-8546-29827f32b08e--
