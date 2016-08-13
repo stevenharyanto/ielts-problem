@@ -102,7 +102,7 @@ be something wrong. So I checked my Gmail inbox and re-read the emails. Then I
 logged in to the IELTS account page to check the venue.
 
 The account page still does not clearly display any physical address of the test
-venue (see screenshot link 10 and 11). There is no street address except a
+venue (see screenshot link 9 and 10). There is no street address except a
 couple of phone numbers. I called all the mentioned phone numbers (021-7262335
 and 021-7264055) and at that time nobody answered the phone.
 
@@ -110,7 +110,7 @@ and 021-7264055) and at that time nobody answered the phone.
     https://github.com/stevenharyanto/ielts-problem/blob/master/ielts10.png (IELTS account page)
 
 Finally I tried doing a Google search for "IELTS Test Centre ID017" and got a
-PDF result from Google.
+PDF result from Google (see screenshot link 11).
 
     https://github.com/stevenharyanto/ielts-problem/blob/master/ielts11.png (Google result for "IELTS Test Centre ID017")
 
@@ -123,7 +123,7 @@ venue is supposed to be. Or if "IDP - South Jakarta" and "IDP Pondok Indah" are
 the same thing and the designated "ID017". This fact is not clearly stated in
 the document. The document says: "Thank you for registering your IELTS Test at
 ID017 - IDP South Jakarta". So I am assuming the particular "IDP" that I should
-be visiting is "IDP South Jakarta" and if you recall from screenshot link 5 and
+be visiting is "IDP South Jakarta" and if you recall from screenshot links 5 and
 6, "IDP Education - South Jakarta" seems to be associated with "IDP Education -
 ILP Pancoran" which is what I selected during registration.
 
@@ -132,17 +132,17 @@ explicitly stating that it is the same as "IDP South Jakarta".
 
 At this time I have to assume that the test venue is "IDP Pondok Indah" which is
 at "Raffles International Christian School, Jl Gedung Hijau Raya I no 1, Pondok
-Indah, Jakarta Selatan", because there is only this address and one other. The
-other address is for the speaking test at "IDP IELTS South Jakarta" which is at
-"Plaza 5 Pondok Indah Blok D19, Jl Margaguna Raya, Jakarta Selatan" and the
-speaking test is to be conducted at 1 PM.
+Indah, Jakarta Selatan", because there is only this address and one other for
+the speaking test. The other address for the speaking test is at "IDP IELTS
+South Jakarta" which is at "Plaza 5 Pondok Indah Blok D19, Jl Margaguna Raya,
+Jakarta Selatan" and the speaking test is to be conducted at 1 PM.
 
 I had a thought of immediately going outside of the ILP Pancoran building and
 hailed a taxi to take me to Raffles International Christian School, but this
-statement that I read from the same PDF document prevented me to do so: "3. All
-Candidates must arrive at the test venue at 7.30am for registration (except for
-IELTS Life Skills test). You will not be permitted to sit for the test if you
-arrive late, and your test fee will not be refunded." By this time, it is
+statement that I read from the same PDF document prevented me from doing so: "3.
+All Candidates must arrive at the test venue at 7.30am for registration (except
+for IELTS Life Skills test). You will not be permitted to sit for the test if
+you arrive late, and your test fee will not be refunded." By this time, it is
 already past 7:30 AM and the journey from Pasar Minggu to Pondok Indah would
 probably take at least 30-45 minutes. So I gave up and went home. I did try to
 call the phone numbers again, but failed to reach a human.
@@ -179,7 +179,7 @@ process. Mainly:
 2) The name and address of "ILP Pancoran" should never have been displayed at
    all during the registration, because the registration is online and does not
    involve any visit to this place. This is a major source of confusion and
-   misguidance. I initially selected and hoped that this will be the test venue
+   misguiding. I initially selected and hoped that this will be the test venue
    because this place is by far the closest to me. I can argue that I am fooled
    by the registration process.
 
@@ -198,6 +198,10 @@ contacted at:
     +6281906617777
 
 or at the postal address which I entered during the registration.
+
+This email is sent to ielts.indonesia@idp.com and ielts.ilp@gmail.com. I also
+submitted a feedback from the IELTS account page. I hope to get a response for
+this email.
 
 A copy of this email is also put at:
 
